@@ -1,4 +1,4 @@
-# Greetings, I’m Heiko
+# Greetings, I’m **Heiko**
 - I guess nothing much
 - You can visit my project, RedirectUnlocked 2
 - You can also soon see another project of mine, Newercode
