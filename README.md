@@ -1,8 +1,4 @@
-# Greetings, I’m **Heiko**
-- I guess nothing much
-- You can visit my project, RedirectUnlocked 2
-- You can also soon see another project of mine, Newercode
-- Not a programmer, most projects will probably involve little to no code
+![Heiko](https://i.imgur.com/lBMZsFy.png)
 
 <!---
 BokyakuHeiko/BokyakuHeiko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
